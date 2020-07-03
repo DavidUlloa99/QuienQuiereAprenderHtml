@@ -1,0 +1,21 @@
+﻿  archivo.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  GameObj.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  Inicio.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  Juego.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  maincpp.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  manzanaObj.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  menuA.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  playerObj.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  text.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\Juego.h(7,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  TextureManager.cpp
+C:\Users\ulloa\source\repos\ProyectosEnSDL2\Game\Game\Game\TextureManger.h(2,10): fatal error C1083: Cannot open include file: 'SDL_ttf.h': No such file or directory
+  Generating Code...
